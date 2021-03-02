@@ -1,0 +1,23 @@
+heading{
+	color: red;
+	font-weight: bold;
+	text-color:red;
+	background-color: orange;
+	font-size:50px;
+}
+SetList{
+	 color: green; 
+     font-size: 15px;
+     background-color : powderblue;
+}
+songtitle{
+	font-weight:30px;
+}
+heading, artist, songtitle, year, genre,separation {
+	display:block;
+}
+separation{
+	height:5px;
+	background-color: orange;
+
+}

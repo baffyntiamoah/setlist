@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="setlist.css"?>
+
+<SetList>
+	<heading>Welcome to Good Records</heading>
+	<song1>
+		<songtitle> Song:-I feel It Coming</songtitle>
+		<artist>Artist:-The Weeknd and Daft Punk</artist>
+		<genre>Genre:-Disco/Pop</genre>
+		<year>Year:-2016</year>
+	</song1>
+	<separation>.......</separation>
+	<Song2>
+		<songtitle>Song:-Moon River</songtitle>
+		<artist>Artist:-Frank Ocean</artist>
+		<genre>Genre:-Alternative RnB</genre>
+		<year>Year:-2018</year>
+	</Song2>
+	<separation>.......</separation>
+
+	<Song3>
+		<songtitle>Song:-7 Rings</songtitle>
+		<artist>Artist:-Ariana Grande</artist>
+		<genre>Genre:-Pop</genre>
+		<year>Year:-2019</year>
+	</Song3>
+	<separation>.......</separation>
+	<Song4>
+		<songtitle>Song:-Remember Where You Are</songtitle>
+		<artist>Artist:-Jessie Ware</artist>
+		<genre>Genre:-Disco</genre>
+		<year>Year:-2020</year>
+	</Song4>
+	<separation>.......</separation>
+	<Song5>
+		<songtitle>Song:-Rap God</songtitle>
+		<artist>Artist:-Eminem</artist>
+		<genre>Genre:-Rap</genre>
+		<year>Year:-2013</year>
+	</Song5>
+	<separation>.......</separation>
+	<Song6>
+		<songtitle>Song:-Gum Body</songtitle>
+		<artist>Artist:-Burna Boy and Jorja Smith</artist>
+		<genre>Genre:-AfroPop</genre>
+		<year>Year:-2019</year>
+	</Song6>
+	<separation>.......</separation>
+	<Song7>
+		<songtitle>Song:-We're Good</songtitle>
+		<artist>Artist:-Dua Lipa</artist>
+		<genre>Genre:-Disco</genre>
+		<year>Year:-2021</year>
+	</Song7>
+	<separation>.......</separation>
+	<Song8>
+		<songtitle>Song:-Roman's Revenge</songtitle>
+		<artist>Artist:-Nicki Minaj and Eminem</artist>
+		<genre>Genre:-Rap</genre>
+		<year>Year:-2010</year>
+	</Song8>
+	<separation>.......</separation>
+	<SongNine>
+		<songtitle>Song:-AfterThought</songtitle>
+		<artist>Artist:_Joji</artist>
+		<genre>Genre:-Alternative RnB</genre>
+		<year>Year:-2020</year>
+	</SongNine>
+	<separation>.......</separation>
+	<SongTen>
+		<songtitle>Song:-How You Like That?</songtitle>
+		<artist>Artist:-BlackPink</artist>
+		<genre>Genre:-K-pop</genre>
+		<year>Year:-2020</year>
+	</SongTen>
+	<separation>.......</separation>
+	<SongEle>
+		<songtitle>Song:-Sweet Child O' Mine</songtitle>
+		<artist>Artist:-Gun N' Roses</artist>
+		<genre>Genre:-Rock</genre>
+		<year>Year:-1987</year>
+	</SongEle>
+
+
+
+</SetList>
